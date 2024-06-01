@@ -28,3 +28,7 @@
 .text-punto {
     color: var(--primary);
 }
+
+.number {
+    color: var(--primary);
+}
